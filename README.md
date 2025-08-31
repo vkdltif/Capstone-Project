@@ -181,7 +181,5 @@ ecommerce-feedback-analysis/
 
 ---
 
-**Project Author**: [Your Name]  
 **Course**: Student Development Initiative - Capstone Project  
 **Model**: IBM Granite 3.3-8B-Instruct  
-**Completion Date**: [Current Date]
